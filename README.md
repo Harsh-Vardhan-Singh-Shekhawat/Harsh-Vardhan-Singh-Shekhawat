@@ -5,7 +5,7 @@
 
  
 
-<p align="left"> <a href="https://twitter.com/harshva68794207" target="blank"><img src="https://img.shields.io/twitter/follow/sherlockvarm?logo=twitter&style=for-the-badge" alt="harshva68794207" /></a> </p>
+<p align="left"> <a href="https://twitter.com/harshva68794207" target="blank"><img src="https://img.shields.io/twitter/follow/harshva68794207?logo=twitter&style=for-the-badge" alt="harshva68794207" /></a> </p>
 
 - 🌱 I’m currently learning *React*
 
