@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh Shekhawat</h1>
-<img align="right" alt="Coding" width="475" src="https://github.com/Harsh-Vardhan-Singh-Shekhawat/Harsh-Vardhan-Singh-Shekhawat/blob/main/coding.gif">
+<img align="right" alt="Coding" width="450" src="https://github.com/Harsh-Vardhan-Singh-Shekhawat/Harsh-Vardhan-Singh-Shekhawat/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=%20Harsh-Vardhan-Singh-Shekhawat&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh-Vardhan-Singh-Shekhawat" /> </p>
 
