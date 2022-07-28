@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshva68794207" target="blank"><img src="https://img.shields.io/twitter/follow/harshva68794207?logo=twitter&style=for-the-badge" alt="harshva68794207" /></a> </p>
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *APIs*
 
 - 👯 I’m looking to collaborate on *Web Dev Projects*
 
