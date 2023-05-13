@@ -5,19 +5,19 @@
 
  
 
-<p align="left"> <a href="https://twitter.com/harshva68794207" target="blank"><img src="https://img.shields.io/twitter/follow/harshva68794207?logo=twitter&style=for-the-badge" alt="harshva68794207" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hshekhawat7773" target="blank"><img src="https://img.shields.io/twitter/follow/hshekhawat7773?logo=twitter&style=for-the-badge" alt="hshekhawat7773" /></a> </p>
 
-- 🌱 I’m currently learning *REST APIs*
+- 🌱 I’m currently learning *DeFi Protocols*
 
 - 👯 I’m looking to collaborate on *Web Dev Projects*
 
-- 💬 Ask me about *Blockchain, Trading, Web Dev*
+- 💬 Ask me about *Blockchain, Web Dev, Trading*
 
 - 📫 How to reach me *harshshekhawat963@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshva68794207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshva68794207" height="30" width="40" /></a>
+<a href="https://twitter.com/hshekhawat7773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshva68794207" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harsh-shekhawat-0463a6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Vardhan Singh Shekhawat" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh.shekhawat.7773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh.shekhawat.7773" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshshekhawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshshekhawat" height="30" width="40" /></a>
@@ -37,6 +37,8 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
