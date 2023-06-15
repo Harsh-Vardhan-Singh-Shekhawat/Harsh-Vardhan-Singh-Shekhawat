@@ -30,11 +30,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
-
-[![Harsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Harsh-Vardhan-Singh-Shekhawat&&theme=xcode)](https://github.com/Harsh-Vardhan-Singh-Shekhawat)
-
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Vardhan-Singh-Shekhawat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Harsh-Vardhan-Singh-Shekhawat" /><br></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Vardhan-Singh-Shekhawat&show_icons=true&locale=en&theme=tokyonight" alt="Harsh-Vardhan-Singh-Shekhawat" /><br></p>
-
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Vardhan-Singh-Shekhawat&&theme=tokyonight" alt="Harsh-Vardhan-Singh-Shekhawat" /></p>
